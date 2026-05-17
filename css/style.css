@@ -260,7 +260,7 @@ ul, ol {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-image: url('https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1920&q=85');
+  background-image: url('https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1920&q=85');
   background-size: cover;
   background-position: center 40%;
   transform: scale(1.08);
